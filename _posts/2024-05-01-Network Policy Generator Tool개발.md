@@ -18,19 +18,39 @@ Snort는 네트워크 침입 탐지 시스템(IDS)으로, 정상적인 네트워
 ### Project Preview
 
 - Main Tap
-  ![Profile Image](/assets/images/npg/npg_main.png)
+  <div class="gallery">
+    <a href="/assets/images/npg/npg_main.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/npg/npg_main.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Rule Tap
-  ![Profile Image](/assets/images/npg/npg_rule.png)
+  <div class="gallery">
+    <a href="/assets/images/npg/npg_rule.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/npg/npg_rule.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Module Tap
-  ![Profile Image](/assets/images/npg/npg_module.png)
+  <div class="gallery">
+    <a href="/assets/images/npg/npg_module.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/npg/npg_module.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Policy Tap
-  ![Profile Image](/assets/images/npg/npg_policy.png)
+  <div class="gallery">
+    <a href="/assets/images/npg/npg_policy.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/npg/npg_policy.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Lua Config File
-  ![Profile Image](/assets/images/npg/npg_lua.png)
+  <div class="gallery">
+    <a href="/assets/images/npg/npg_lua.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/npg/npg_lua.png" alt="Origami Swan">
+    </a>
+  </div>
 
 ### Reference
 

@@ -47,17 +47,35 @@ Software Lifecycle Management(SLM) 솔루션은 ASPICE 프로젝트를 수행하
 ### Project Preview
 
 - Login Page
-  ![Profile Image](/assets/images/slm/slm_login.png)
-  ![Profile Image](/assets/images/slm/slm_login_ms.png)
+  <div class="gallery">
+    <a href="/assets/images/slm/slm_login.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/slm/slm_login.png" alt="Origami Swan">
+    </a>
+    <a href="/assets/images/slm/slm_login_ms.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/slm/slm_login_ms.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Project List Page
-  ![Profile Image](/assets/images/slm/slm_projects.png)
+  <div class="gallery">
+    <a href="/assets/images/slm/slm_projects.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/slm/slm_projects.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Dashboard Page
-  ![Profile Image](/assets/images/slm/slm_dashboard.png)
+  <div class="gallery">
+    <a href="/assets/images/slm/slm_dashboard.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/slm/slm_dashboard.png" alt="Origami Swan">
+    </a>
+  </div>
 
 - Artifact List Page
-  ![Profile Image](/assets/images/slm/slm_artifacts.png)
+  <div class="gallery">
+    <a href="/assets/images/slm/slm_artifacts.png" data-fancybox="gallery" data-caption="Elegant Paper Swan">
+      <img src="/assets/images/slm/slm_artifacts.png" alt="Origami Swan">
+    </a>
+  </div>
 
 ### Reference
 
