@@ -1,5 +1,9 @@
 2023.05 ~ 2024.01
 
+### Development period
+
+2023.06 ~ 2024.01
+
 ### Project Description
 
 자동차의 다양한 네트워크 프로토콜을 대상으로 보안 취약점을 검증할 수 있는 사이버 보안 테스트 솔루션을 개발하였습니다.
@@ -10,9 +14,5 @@
 ### Developer Skill
 
 - C#, python, fastapi, postgresql
-
-### Development period
-
-2023.06 ~ 2024.01
 
 ### Source Repository

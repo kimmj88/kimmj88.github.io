@@ -113,10 +113,9 @@ analytics:
 # Site Author
 author:
   name: "KIM MIN JAE"
-  avatar: "/assets/images/id_avatar.jpeg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
-  email:
+  avatar: "/assets/images/my_picture.jpeg"
+  bio: "My Development Diary Portfolio"
+  location:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

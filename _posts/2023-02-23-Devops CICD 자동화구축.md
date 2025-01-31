@@ -15,6 +15,10 @@ Bitbucket 리포지토리에 특정 push 이벤트가 발생하면 Jenkins 서�
 
 - 2023.02 — 2023.06
 
-### Source Repository
+### Reference
 
-- <a>https://github.com/kimmj88/networkpolicygenerator</a>
+- [Notion Jenkins Git 설정](https://www.notion.so/Jenkins-Git-Window-OS-MSbuild-da60bc2d69294686a9cd5c8325ad3458)
+- [Jenkins & Bitbucket](https://www.notion.so/Jenkins-Bitbucket-5a1412dd94904420ad86e3b56ffd222a)
+- [Jenkins & Teams](https://www.notion.so/Jenkins-Teams-a6ef869fb95c4d5db5678d8e9d9966d4)
+
+### Source Repository

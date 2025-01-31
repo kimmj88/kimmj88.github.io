@@ -59,6 +59,8 @@ Software Lifecycle Management(SLM) 솔루션은 ASPICE 프로젝트를 수행하
 - Artifact List Page
   ![Profile Image](/assets/images/slm/slm_artifacts.png)
 
-### Source Repository
+### Reference
 
-- <a>https://github.com/kimmj88/networkpolicygenerator</a>
+- [Test Docker 배포환경설정](https://www.notion.so/CI-CD-with-MacOS-6557cee1ae0e4bc4adce24b45720548c)
+
+### Source Repository

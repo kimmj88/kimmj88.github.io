@@ -1,5 +1,9 @@
 2024.05 ~ 2024.08
 
+### Development period
+
+- 2024.05 ~ 2024.08
+
 ### Project Description
 
 Snort는 네트워크 침입 탐지 시스템(IDS)으로, 정상적인 네트워크 트래픽과 의심스러운 트래픽을 분석하여 보안 위협을 탐지합니다. Network Policy Generator Tool은 Snort 시스템을 보다 쉽게 설정하고 적용할 수 있도록 개발된 구성 파일 자동 생성 도구입니다.
@@ -11,9 +15,26 @@ Snort는 네트워크 침입 탐지 시스템(IDS)으로, 정상적인 네트워
 
 - vue.js, electron, typescript, nodejs, express, sqlite
 
-### Development period
+### Project Preview
 
-- 2024.05 ~ 2024.08
+- Main Tap
+  ![Profile Image](/assets/images/npg/npg_main.png)
+
+- Rule Tap
+  ![Profile Image](/assets/images/npg/npg_rule.png)
+
+- Module Tap
+  ![Profile Image](/assets/images/npg/npg_module.png)
+
+- Policy Tap
+  ![Profile Image](/assets/images/npg/npg_policy.png)
+
+- Lua Config File
+  ![Profile Image](/assets/images/npg/npg_lua.png)
+
+### Reference
+
+- [Networt Plicy Generator](https://www.notion.so/Network-Policy-Generator-a6adaee212df42f187bf84a0a20e6873)
 
 ### Source Repository
 

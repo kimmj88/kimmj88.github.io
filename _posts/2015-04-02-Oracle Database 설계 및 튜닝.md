@@ -1,5 +1,9 @@
 2015.04 ~ 2021.02
 
+### Development period
+
+- 2015.04 ~ 2021.02
+
 ### Project Description
 
 PACS 서버 애플리케이션을 Windows Service 기반으로 개발하면서, 데이터베이스 관련 업무도 병행 수행하였습니다. 데이터베이스 테이블 설계, PL/SQL 개발, 복잡한 쿼리 작성 및 최적화 등의 핵심 업무를 담당하였으며, 단순한 개발자 수준의 데이터베이스 조작을 넘어 실행 계획(Execution Plan) 분석을 기반으로 성능 최적화를 수행하였습니다.
@@ -11,7 +15,3 @@ PACS 서버 애플리케이션을 Windows Service 기반으로 개발하면서, 
 ### Developer Skill
 
 - Oracle, Golden Tool
-
-### Development period
-
-- 2015.04 ~ 2021.02
