@@ -1,4 +1,8 @@
-2024.10 ~ present
+---
+layout: single
+title: "SLM(Software Lifecycle Manage 솔루션개발)"
+date: 2024.10.01
+---
 
 ### Development period
 

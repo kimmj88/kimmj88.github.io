@@ -1,4 +1,8 @@
-2024.05 ~ 2024.08
+---
+layout: single
+title: "NPG(Network Policy Generator Tool개발)"
+date: 2024.5.01
+---
 
 ### Development period
 
@@ -55,7 +59,8 @@ Snort는 네트워크 침입 탐지 시스템(IDS)으로, 정상적인 네트워
 ### Reference
 
 - [Networt Plicy Generator](https://www.notion.so/Network-Policy-Generator-a6adaee212df42f187bf84a0a20e6873)
+- [Electron MacOS Code Signing](https://www.notion.so/Electron-MacOS-Code-Signing-196b5a63c75b8074ad34efe3a197234a)
 
 ### Source Repository
 
-- <a>https://github.com/kimmj88/networkpolicygenerator</a>
+<!-- - <a>https://github.com/kimmj88/networkpolicygenerator</a> -->

@@ -1,4 +1,8 @@
-2023.02 ~ 2023.06
+---
+layout: single
+title: "Devops CI/CD 자동화 구축"
+date: 2023.02.01
+---
 
 ### Project Description
 
